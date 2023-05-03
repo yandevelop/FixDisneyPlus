@@ -1,0 +1,9 @@
+Package: com.yan.fixdisney+
+Name: FixDisney+
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: yan
+Author: yan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
