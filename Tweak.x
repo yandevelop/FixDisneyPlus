@@ -8,7 +8,3 @@
 	return mPlist;
 }
 %end
-
-%ctor {
-	%init;
-}
